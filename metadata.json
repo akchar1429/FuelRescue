@@ -1,0 +1,6 @@
+{
+  "name": "Dry Fuel Alert & Petrol Pump Dispatch System",
+  "description": "Automatic emergency alert system that detects dry bike fuel, transmits distress alerts with GPS coordinates to nearby petrol pumps, and delivers live dispatch status updates to the rider's personal dashboard.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
